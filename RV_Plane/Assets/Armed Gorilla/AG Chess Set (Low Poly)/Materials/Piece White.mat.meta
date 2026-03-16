@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc54d735101d35846aad2a6379145ea1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192162
+  packageName: AG Chess Set (Low Poly)
+  packageVersion: 1.0
+  assetPath: Assets/Armed Gorilla/AG Chess Set (Low Poly)/Materials/Piece White.mat
+  uploadId: 424832
