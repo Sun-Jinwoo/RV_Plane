@@ -26,7 +26,7 @@ MonoBehaviour:
     version: 11.4.4
     eulaAcceptedVersions: '{"Values":["","0.0","11.4"]}'
   database:
-    disableModelExtraction: 0
+    disableModelExtraction: 1
   plugins:
     pluginDirectory: Vuforia
   shaders:
@@ -44,9 +44,9 @@ MonoBehaviour:
     videoBackgroundEnabled: 1
   deviceTracker:
     autoStartTracker: 1
-    arcoreRequirement: 2
-    autoImportArcore: 0
-    thirdPartyARCoreClientDetected: 0
+    arcoreRequirement: 1
+    autoImportArcore: 1
+    thirdPartyARCoreClientDetected: 1
   playmode:
     mRecordingPath: 
     playModeType: 0
